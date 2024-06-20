@@ -6,6 +6,10 @@ body {
     background-color: #f9f9f9;
 }
 
+p {
+    font-family: Arial, sans-serif; /* Change this to your preferred font */
+}
+
 header {
     background-color: #4CAF50;
     color: white;
